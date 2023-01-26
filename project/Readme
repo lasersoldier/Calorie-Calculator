@@ -1,0 +1,29 @@
+#### Hackathon Project within 24 hours.
+My role: I participated in writing the whole main.html page and the javascript code for our website, modifying and finalizing the CSS file.
+Website URL:https://devpost.com/software/calorie-calculator-h1avjy
+
+Inspiration
+A lot of friends of mine have shown great interest in going to the gym. Besides how many bench presses or push-ups they did,
+they like talking about the diet. As far as I know, most of them follow diet instructions strictly.
+Then I wonder: is it possible that I can help people who don't go to the gym or have a personal trainer to know if they have a healthy diet?
+
+What it does
+The website takes in some personal information like age, height, weight, sex, and frequency of exercising to calculate the calories one needs per day.
+And it also helps one to evaluate if one's one-day diet meets this necessary calorie intake.
+
+How we built it
+We build this using Visual Studio Code and work online together on Replit.
+
+Challenges we ran into
+None of us learned anything about HTML, CSS, or javascript before. So I guess we are really challenging ourselves to build this project.
+
+Accomplishments that we're proud of
+We are proud that all of us are able to learn some knowledge in HTML, CSS, and javascript in such a short time!
+And the final website looks nicer than we would anticipate.
+
+What we learned
+We are very glad that we choose to challenge ourselves to learn about building up websites. We learn to code with HTML, CSS, and javascript.
+I believe that we won't feel confused next time we press F12 on a website.
+
+What's next for Calorie Calculator
+We expect that more food will be added to our database! And also more related factors would be considered to modify our evaluation of necessary calorie intake.
